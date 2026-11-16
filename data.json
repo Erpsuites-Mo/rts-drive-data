@@ -1,0 +1,18 @@
+{
+ "updated": "2026-11-16",
+ "goal": 1000,
+ "given": 200.0,
+ "gifts": 2,
+ "byCause": {
+  "food": 0,
+  "toys": 0,
+  "both": 200.0
+ },
+ "matched": 200.0,
+ "spent": 0,
+ "counts": {
+  "food": 0,
+  "toys": 0
+ },
+ "trips": []
+}
