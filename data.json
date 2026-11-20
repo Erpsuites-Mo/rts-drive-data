@@ -1,14 +1,14 @@
 {
  "updated": "2026-11-20",
  "goal": 1000,
- "given": 645.0,
- "gifts": 9,
+ "given": 770.0,
+ "gifts": 11,
  "byCause": {
   "food": 0,
   "toys": 20.0,
-  "both": 625.0
+  "both": 750.0
  },
- "matched": 645.0,
+ "matched": 770.0,
  "spent": 0,
  "counts": {
   "food": 0,
