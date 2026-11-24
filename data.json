@@ -21,10 +21,137 @@
   }
  ],
  "matched": 2500,
- "spent": 0,
+ "spent": 836.62,
  "counts": {
-  "food": 0,
-  "toys": 0
+  "foodLbs": 94.3,
+  "toys": 79,
+  "giftCards": 4
  },
- "trips": []
+ "trips": [
+  {
+   "id": "2026-11-23-costco",
+   "date": "2026-11-23",
+   "store": "Costco",
+   "cause": "food",
+   "spent": 226.29,
+   "items": [
+    {
+     "name": "Barilla penne pasta",
+     "qty": 6,
+     "unit": "8 × 1 lb boxes",
+     "kind": "food",
+     "lbs": 48.0
+    },
+    {
+     "name": "Kirkland olive oil",
+     "qty": 4,
+     "unit": "3 L jugs",
+     "kind": "food",
+     "lbs": 24.0
+    },
+    {
+     "name": "Kirkland pure sea salt",
+     "qty": 4,
+     "unit": "30 oz",
+     "kind": "food",
+     "lbs": 7.5
+    },
+    {
+     "name": "Spice Islands ground cumin",
+     "qty": 5,
+     "unit": "15 oz",
+     "kind": "food",
+     "lbs": 4.7
+    },
+    {
+     "name": "Kirkland granulated garlic",
+     "qty": 4,
+     "unit": "15.5 oz",
+     "kind": "food",
+     "lbs": 3.88
+    },
+    {
+     "name": "Kirkland black pepper",
+     "qty": 4,
+     "unit": "12.7 oz",
+     "kind": "food",
+     "lbs": 3.16
+    },
+    {
+     "name": "Kirkland organic chopped onion",
+     "qty": 4,
+     "unit": "12.3 oz",
+     "kind": "food",
+     "lbs": 3.08
+    }
+   ],
+   "photo": "img/2026-11-23-costco.jpg",
+   "delivered": null
+  },
+  {
+   "id": "2026-11-23-target",
+   "date": "2026-11-23",
+   "store": "Target",
+   "cause": "toys",
+   "spent": 610.33,
+   "items": [
+    {
+     "name": "Hot Wheels cars",
+     "qty": 4,
+     "unit": "5-packs",
+     "kind": "toy",
+     "pieces": 5
+    },
+    {
+     "name": "Sports balls (Spalding, Baden, Franklin, NCAA, Adidas)",
+     "qty": 10,
+     "kind": "toy"
+    },
+    {
+     "name": "Crayola crayons",
+     "qty": 10,
+     "unit": "24-count",
+     "kind": "toy"
+    },
+    {
+     "name": "Crayola art supplies",
+     "qty": 10,
+     "kind": "toy"
+    },
+    {
+     "name": "Barbie dolls",
+     "qty": 6,
+     "kind": "toy"
+    },
+    {
+     "name": "FAO Schwarz plush toys",
+     "qty": 4,
+     "kind": "toy"
+    },
+    {
+     "name": "Bluey toys",
+     "qty": 4,
+     "kind": "toy"
+    },
+    {
+     "name": "LEGO sets (Cinderella castle, Frozen Olaf & Bruni, Pokémon Charmander)",
+     "qty": 4,
+     "kind": "toy"
+    },
+    {
+     "name": "Kids' books (Harry Potter, Bluey, construction)",
+     "qty": 7,
+     "kind": "toy"
+    },
+    {
+     "name": "Target gift cards",
+     "qty": 4,
+     "unit": "$25",
+     "kind": "giftcard"
+    }
+   ],
+   "photo": "img/2026-11-23-target.jpg",
+   "delivered": null
+  }
+ ]
 }
